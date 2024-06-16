@@ -20,7 +20,9 @@ The Active Directory Lab is aimed to set up an Active Directory Home lab assignm
 ## Steps
 *Ref 1: Network Topology*
 - Network Topology
-- Importing Roles into the Domain Controller
+- -Changing Name of DS
+-  ![Changing_DC_Name](https://github.com/TolantioGanzi/Active-Directory-Lab/assets/172088474/670f1a6c-6bf5-4b9d-b4cb-ae82b1908990)
+-  Importing Roles into the Domain Controller
 - Adding DNS, Active Directory, DHCP roles to DC1
 - Establishing New Environment | Adding Forest
 - Creating Users in "DC1"
